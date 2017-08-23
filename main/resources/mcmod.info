@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tut",
+  "name": "My Mod",
+  "description": "",
+  "version": "1.0",
+  "mcversion": "{1.11.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Legonerd"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

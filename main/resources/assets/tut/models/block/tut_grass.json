@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+	"particle": "tut:blocks/tut_grass_top",
+        "up": "tut:blocks/tut_grass_top",
+        "north": "tut:blocks/tut_grass_side",
+	"south": "tut:blocks/tut_grass_side",
+	"east": "tut:blocks/tut_grass_side",
+	"west": "tut:blocks/tut_grass_side",
+	"down": "tut:blocks/tut_dirt"
+    }
+}

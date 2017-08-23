@@ -1,0 +1,22 @@
+tile.tut_dirt.name=Infected Dirt
+tile.tut_grass.name=Infected Grass
+tile.tut_block_ruby.name=Block of Ruby
+tile.tut_ruby_ore.name=Ruby Ore
+tile.tut_barrel.name=Barrel
+
+item.tut_ruby.name=Ruby
+
+item.tut_sword.name=Ruby Sword
+item.tut_pickaxe.name=Ruby Pickaxe
+item.tut_axe.name=Ruby Axe
+item.tut_hoe.name=Ruby Hoe
+item.tut_spade.name=Ruby Shovel
+
+item.tut_helmet.name=Ruby Helmet
+item.tut_chestplate.name=Ruby Chestplate
+item.tut_leggings.name=Ruby Leggings
+item.tut_Boots.name=Ruby Boots
+
+item.tut_infinity_flame.name=Infinity Flame
+
+container.barrel=Barrel

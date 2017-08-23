@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+	"particle": "tut:blocks/tut_barrel_top",
+        "up": "tut:blocks/tut_barrel_top",
+        "north": "tut:blocks/tut_barrel_side",
+	"south": "tut:blocks/tut_barrel_side",
+	"east": "tut:blocks/tut_barrel_side",
+	"west": "tut:blocks/tut_barrel_side",
+	"down": "tut:blocks/tut_barrel_bottom"
+    }
+}
